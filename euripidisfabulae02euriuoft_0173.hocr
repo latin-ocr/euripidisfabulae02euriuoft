@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./euripidisfabulae02euriuoft/euripidisfabulae02euriuoft_0173.png"; bbox 0 0 1920 3235; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 590 489 1139 564">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 590 489 1139 564">
+     <span class='ocr_line' id='line_1_1' title="bbox 590 489 1139 564; baseline 0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 590 494 645 563; x_wconf 69' lang='lat' dir='ltr'>E</span> <span class='ocrx_word' id='word_1_2' title='bbox 661 493 726 563; x_wconf 88' lang='lat' dir='ltr'>U</span> <span class='ocrx_word' id='word_1_3' title='bbox 749 494 808 562; x_wconf 75' lang='lat' dir='ltr'>R.</span> <span class='ocrx_word' id='word_1_4' title='bbox 826 494 845 561; x_wconf 88' lang='lat'><em>1</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 866 489 1139 564; x_wconf 73' lang='lat' dir='ltr'>PIDIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 336 758 1395 878">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 336 758 1395 878">
+     <span class='ocr_line' id='line_1_2' title="bbox 336 758 1395 878; baseline 0.001 -1"><span class='ocrx_word' id='word_1_6' title='bbox 336 758 1395 878; x_wconf 73' lang='lat' dir='ltr'><strong>BAOGHAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 786 1096 948 1125">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 786 1096 948 1125">
+     <span class='ocr_line' id='line_1_3' title="bbox 786 1096 948 1125; baseline 0 -1"><span class='ocrx_word' id='word_1_7' title='bbox 786 1096 948 1125; x_wconf 83' lang='lat' dir='ltr'>EDIDIT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 603 1342 1131 1386">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 603 1342 1131 1386">
+     <span class='ocr_line' id='line_1_4' title="bbox 603 1342 1131 1386; baseline 0.002 -1"><span class='ocrx_word' id='word_1_8' title='bbox 603 1343 665 1385; x_wconf 87' lang='lat' dir='ltr'>N.</span> <span class='ocrx_word' id='word_1_9' title='bbox 704 1342 1131 1386; x_wconf 82' lang='lat' dir='ltr'>WECKLEIN.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 486 2734 1256 2870">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 486 2734 1256 2870">
+     <span class='ocr_line' id='line_1_5' title="bbox 731 2734 1013 2781; baseline 0.018 -4"><span class='ocrx_word' id='word_1_10' title='bbox 731 2734 1013 2781; x_wconf 82' lang='lat' dir='ltr'>LIPSIAE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 486 2834 1256 2870; baseline 0.003 -3"><span class='ocrx_word' id='word_1_11' title='bbox 486 2834 541 2868; x_wconf 68' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_12' title='bbox 569 2835 807 2869; x_wconf 63' lang='lat' dir='ltr'>AEDIBUS</span> <span class='ocrx_word' id='word_1_13' title='bbox 838 2836 875 2869; x_wconf 79' lang='lat' dir='ltr'>B.</span> <span class='ocrx_word' id='word_1_14' title='bbox 900 2836 1256 2870; x_wconf 68' lang='lat' dir='ltr'>G.&#39;H3UBNER1.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 718 2931 1024 2960">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 718 2931 1024 2960">
+     <span class='ocr_line' id='line_1_7' title="bbox 718 2931 1024 2960; baseline 0 -1"><span class='ocrx_word' id='word_1_15' title='bbox 718 2931 1024 2960; x_wconf 84' lang='lat' dir='ltr'>MDCCCXCVIII.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
